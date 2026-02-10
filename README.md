@@ -1,29 +1,41 @@
 # Python-Practice-Daily
 Python Basics | Core Python | Python Problem Solving | DSA with Python
+
 ---
+
 # 🐍 Core Python – Practical Learning Repository
+
 ---
+
 Welcome 👋  
 This repository is a **hands-on Core Python guide** where I document my learning journey with **clear explanations, clean examples, and interview-relevant concepts**.
 The goal is simple 👉 *learn Python properly and apply it confidently*.
+
 ---
+
 ## 🚀 Why I Created This Repository
 Python is everywhere today — from web apps to AI.  
 Instead of just watching tutorials, I wanted a **structured place to practice and revise Core Python**, so I created this repository.
+
 ---
+
 This repo is useful for:
 - 👶 Beginners starting Python
 - 🎓 Students preparing for exams
 - 💼 Interview preparation
 - 🔁 Quick revision of concepts
+  
 ---
+
 ## 📌 What You’ll Find Here
 ✔ Simple explanations  
 ✔ Real examples  
 ✔ Clean and readable code  
 ✔ Interview-oriented concepts  
-✔ Beginner-friendly structure  
+✔ Beginner-friendly structure
+
 ---
+
 ## 📚 Core Python Topics Covered
 | 🔢 | Topic |
 |----|------|
@@ -39,13 +51,17 @@ This repo is useful for:
 | 🔟 | Object-Oriented Programming |
 | 1️⃣1️⃣ | Exception Handling |
 | 1️⃣2️⃣ | File Handling |
+
 ---
+
 ## 🟢 1. Introduction to Python
 Python is a **high-level, interpreted language** known for its simplicity and readability.
 ```python
 print("Hello, Python 👋")
 ```
+
 ---
+
 ## 🟢 2. Variables & Data Types
 Variables store data values.
 ```python
@@ -57,7 +73,9 @@ print(name, age, percentage, is_developer)
 ```
 🔹 Python automatically understands the data type  
 🔹 No need to declare types explicitly
+
 ---
+
 ## 🟢 3. Operators
 ### ➕ Arithmetic Operators
 ```python
@@ -68,18 +86,24 @@ print(a - b)
 print(a * b)
 print(a / b)
 ```
+
 ---
+
 ### 🔍 Relational Operators
 ```python
 print(a > b)
 print(a == b)
 ```
+
 ---
+
 ### 🔗 Logical Operators
 ```python
 print(a > 5 and b < 5)
 ```
+
 ---
+
 ## 🟢 4. Conditional Statements
 Used to make decisions in programs.
 ```python
@@ -94,14 +118,18 @@ else:
     print("Needs Improvement")
 ```
 💡 Used in grading systems, validations, authentication, etc.
+
 ---
+
 ## 🟢 5. Looping Statements
 ### 🔁 for Loop
 ```python
 for i in range(1, 6):
     print(i)
 ```
+
 ---
+
 ### 🔄 while Loop
 ```python
 count = 1
@@ -109,7 +137,9 @@ while count <= 5:
     print(count)
     count += 1
 ```
+
 ---
+
 ## 🟢 6. Strings
 ```python
 text = "Python Programming"
@@ -120,7 +150,9 @@ print(len(text))
 ```
 ✨ Strings are immutable  
 ✨ Powerful built-in methods available
+
 ---
+
 ## 🟢 7. Python Collections
 ### 📋 List
 ```python
@@ -128,19 +160,25 @@ numbers = [1, 2, 3, 4]
 numbers.append(5)
 print(numbers)
 ```
+
 ---
+
 ### 📦 Tuple
 ```python
 colors = ("red", "green", "blue")
 print(colors)
 ```
+
 ---
+
 ### 🔑 Set
 ```python
 unique_numbers = {1, 2, 2, 3}
 print(unique_numbers)
 ```
+
 ---
+
 ### 🗂 Dictionary
 ```python
 student = {
@@ -150,7 +188,9 @@ student = {
 }
 print(student["name"])
 ```
+
 ---
+
 ## 🟢 8. Functions
 Functions help in **code reusability and clarity**.
 ```python
@@ -162,14 +202,18 @@ print(result)
 ```
 ✔ Cleaner code  
 ✔ Less repetition  
+
 ---
+
 ## 🟢 9. Modules
 ```python
 import math
 print(math.sqrt(16))
 ```
 📦 Modules help organize large programs.
+
 ---
+
 ## 🟢 10. Object-Oriented Programming (OOP)
 ```python
 class Student:
@@ -188,7 +232,9 @@ s1.display()
 - Polymorphism
 - Encapsulation
 - Abstraction
+  
 ---
+
 ## 🟢 11. Exception Handling
 Used to handle runtime errors gracefully.
 ```python
@@ -202,7 +248,9 @@ except ValueError:
 finally:
     print("Program executed successfully")
 ```
+
 ---
+
 ## 🟢 12. File Handling
 ### ✍ Writing to a File
 ```python
@@ -210,35 +258,49 @@ file = open("data.txt", "w")
 file.write("Hello Python")
 file.close()
 ```
+
 ---
+
 ### 📖 Reading from a File
 ```python
 file = open("data.txt", "r")
 print(file.read())
 file.close()
 ```
+
 ---
+
 ## 🎯 Learning Outcomes
 By completing this repository, I have:
 - Built strong Core Python fundamentals
 - Improved logical thinking and problem-solving
 - Gained confidence for interviews
 - Prepared a solid base for advanced topics like AI & ML
+  
 ---
+
 ## 📌 Best Practices Followed
 ✔ Meaningful examples  
 ✔ Clean formatting  
 ✔ Beginner-friendly approach  
 ✔ Interview-relevant concepts  
+
 ---
+
 ## 👨‍💻 About Me
+
 ---
+
 **Aftab Yaragatti**  
 Frontend Developer | Python Programmer | Data Analyst
+
 ---
+
 🔗 GitHub: https://github.com/AftabYaragatti  
 🔗 Portfolio: https://aftabyaragatti.github.io/Portfolio/
 🔗 LinkedIn: https://www.linkedin.com/in/aftab-yaragatti     
 🔗 Instagram: https://www.instagram.com/ak_aftab143
+
 ---
+
 ⭐ If you find this repository helpful, feel free to give it a **star**!
