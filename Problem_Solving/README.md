@@ -76,7 +76,4 @@ For every problem:
 
 My goal is not just to solve the problem — but to solve it cleanly.
 
----
-
-## 📂 Folder Structure
 
